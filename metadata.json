@@ -1,0 +1,5 @@
+{
+  "name": "JSON Account Generator",
+  "description": "Generate JSON files based on a logpass.txt file and a custom template.",
+  "requestFramePermissions": []
+}
